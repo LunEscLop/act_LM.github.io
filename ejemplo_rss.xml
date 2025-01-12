@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias del Mundo</title>
+    <link>https://www.noticiasdelmundo.com</link>
+    <description>Últimas noticias.</description>
+    <pubDate>Fri, 11 Jan 2025 10:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Jan 2025 10:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Nuevo descubrimiento en Marte</title>
+      <link>https://www.noticiasdelmundo.com/marte-descubrimiento</link>
+      <description>Los científicos han encontrado agua enMarte.</description>
+      <pubDate>Fri, 11 Jan 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.noticiasdelmundo.com/marte-descubrimiento</guid>
+    </item>
+    <item>
+      <title>Agua en Marte</title>
+      <link>https://www.noticiasdelmundo.com/agua-en-marte</link>
+      <description>De que está compuesta.</description>
+      <pubDate>Thu, 10 Jan 2025 14:30:00 +0000</pubDate>
+      <guid>https://www.noticiasdelmundo.com/agua-en-marte</guid>
+    </item>
+    <item>
+      <title>Composición</title>
+      <link>https://www.noticiasdelmundo.com/composicion</link>
+      <description>Se ha encontrado H20  en Marte</description>
+      <pubDate>Wed, 09 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>https://www.noticiasdelmundo.com/composicion</guid>
+    </item>
+  </channel>
+</rss>
+
